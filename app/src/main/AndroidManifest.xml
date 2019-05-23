@@ -23,7 +23,7 @@
         </activity>
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBxzri4-_Mg7d7X1W5wodq6SPnxWSGdNBQ" />
+            android:value="api_key" />
         <service android:name=".GeofenceTransitionService" />
 
     </application>
